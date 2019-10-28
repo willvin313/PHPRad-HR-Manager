@@ -4,6 +4,10 @@ A PHPRad <b>HR Manager project</b> file, to generate a webapp with the below fea
 
 *Click "Watch and Star" to get an email notification once an update is made to this repository. And contributions are also welcomed.*
 
+You can support this project by donating to the following address.
+
+<strong>PayPal:</strong> putonlock@gmail.com
+
 <b>Admin Details</b><br>
 Username: willvin<br>
 Password: 12345
