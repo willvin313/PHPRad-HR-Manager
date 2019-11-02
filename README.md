@@ -8,6 +8,8 @@ You can support this project by donating to the following address.
 
 <strong>PayPal:</strong> putonlock@gmail.com
 
+<strong>Be a Patreon:</strong> <a href="https://www.patreon.com/willvinofficial">Willvin</a>
+
 <b>Admin Details</b><br>
 Username: willvin<br>
 Password: 12345
@@ -43,3 +45,6 @@ How to import the project to phprad classic.
 9. Enter your "MySQL" server username and password in <b>User</b> and <b>Password</b> fields repectively.
 10. If your "MySQL" connection settings are correct, you should see a list of you database when you click on the <b>Database</b> select field.
 11. Now select the previouly created database and click on <b>Import Project</b> button.
+
+## PATREON SPONSORS
+- <img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/26380597/2243dc068b9540a5bd6dfcb131f56357/1.png?token-time=2145916800&token-hash=n8EglcykRi935ojW4fX-zCqoQpHpOXdTlES1POmlWo0%3D"  alt="image" height="22" > <strong>Luis Felix</strong>
