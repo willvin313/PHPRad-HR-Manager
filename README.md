@@ -6,7 +6,12 @@ A PHPRad <b>HR Manager project</b> file, to generate a webapp with the below fea
 
 You can support this project by donating to the following address.
 
+<strong>PayPal:</strong> <a href="https://paypal.me/willvin">Make a Donation</a>
+
 <strong>Patreon:</strong> <a href="https://www.patreon.com/bePatron?u=25729924" data-patreon-widget-type="become-patron-button">Become a Patron!</a>
+
+<strong>YouTube:</strong> <a href="https://www.youtube.com/channel/UCHCEiFFWcdcXhzgePJJtIZQ">Subscribe to willvin</a>
+
 
 <b>Admin Details</b><br>
 Username: willvin<br>
